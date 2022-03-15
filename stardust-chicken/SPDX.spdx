@@ -1,0 +1,5 @@
+SPDXVersion: SPDX-2.1
+PackageName: LMIT LL State Machine to TCAM Compiler; Release Name: Stardust-Chicken
+PackageOriginator: MIT Lincoln Laboratory
+PackageHomePage: https://llcad-github.llan.ll.mit.edu/CAMALCAM/Stardust-Chicken-Complete
+PackageLicenseDeclared: GPL-2.0-only

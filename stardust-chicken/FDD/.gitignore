@@ -1,0 +1,7 @@
+bin/
+obj/
+.vs/
+unittests/bin/
+unittests/obj/
+unittests/.vs/
+unittests/Properties/

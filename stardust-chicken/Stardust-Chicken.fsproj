@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Stardust_Chicken</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+	<Compile Include="common.fs" />
+	<Compile Include="tests\Aho-Corasick\test.fs" />
+    <Compile Include="tests\DDFA\test.fs" />
+    <Compile Include="tests\FDD\test.fs" />
+    <Compile Include="tests\TCAM\test.fs" />
+    <Compile Include="Commands.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="FDD\fdd.fsproj" />
+    <ProjectReference Include="Aho-Corasick\Aho-Corasick.fsproj" />
+    <ProjectReference Include="DDFA\DDFA.fsproj" />
+    <ProjectReference Include="TCAM\TCAM.fsproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="tests\Aho-Corasick\refs\" />
+    <Folder Include="tests\DDFA\refs\" />
+    <Folder Include="tests\FDD\refs\" />
+    <Folder Include="tests\TCAM\refs\" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,10 @@
+*/bin/
+*/obj/
+*/.vs/
+*/Properties
+*/*.user
+*/*/bin/
+*/*/obj/
+*/*/.vs/
+*/*/Properties
+*/*/*.user
