@@ -5,7 +5,7 @@ This is an open research platform to tie together TCAM research into an extensib
 See the subfolders for their respective README.md that describes the subproject.
 
 ### Subprojects
-[Stardust-Chicken](https://github.com/mit-ll/CAMALCAM/stardust-chicken)
+[Stardust-Chicken](https://github.com/mit-ll/CAMALCAM/tree/main/stardust-chicken)
 
 # Citation
 
