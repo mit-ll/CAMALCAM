@@ -1,0 +1,6 @@
+SPDXVersion: SPDX-2.1
+    PackageName: CAMALCAM
+    PackageHomePage: https://github.com/mit-ll/CAMALCAM 
+    PackageOriginator: MIT Lincoln Laboratory
+    PackageCopyrightText: 2022 Massachusetts Institute of Technology <tvo@ll.mit.edu>
+    PackageLicenseDeclared: GPL-2.0-only
