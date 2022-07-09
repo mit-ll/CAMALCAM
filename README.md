@@ -11,7 +11,7 @@ See the subfolders for their respective README.md that describes the subproject.
 
 Please use this DOI number reference, published on Zenodo, when citing the software:
 
-DOI: TODO once released to github
+DOI: [![DOI](https://zenodo.org/badge/470217541.svg)](https://zenodo.org/badge/latestdoi/470217541)
 
 # Disclaimer
 DISTRIBUTION STATEMENT A. Approved for public release. Distribution is unlimited.
